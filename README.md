@@ -1,3 +1,3 @@
 ## System Design Problems
 
-1. URL Shortener
+- Please refer to wiki for design problems and related notes.
